@@ -9,3 +9,5 @@ Football-data-api จะใช้สำหรับดึงข้อมูล�
 การใช้งาน API แต่ละตัว
 Football-data-api : http://api.football-data.org/documentation
 News API : https://newsapi.org/
+
+การรัน Web Application รันโดยการใช้ไฟล์ test.php เป็นหน้าหลัก
